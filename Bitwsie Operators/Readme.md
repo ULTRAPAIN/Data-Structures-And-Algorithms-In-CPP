@@ -77,6 +77,7 @@ int main() {
         cout << n << " is even";
     return 0;
 }
+```
 
 ### Example 2: Swapping Two Numbers
 
@@ -92,7 +93,7 @@ int main() {
     cout << "After swapping: a = " << a << ", b = " << b;
     return 0;
 }
-
+```
 ### Example 3: Counting Set Bits
 
 ```cpp
@@ -113,4 +114,4 @@ int main() {
     cout << "Number of set bits: " << countSetBits(n);
     return 0;
 }
-
+```
