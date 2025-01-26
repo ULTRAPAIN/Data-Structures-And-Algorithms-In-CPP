@@ -5,28 +5,51 @@ This repository contains well-structured, easy-to-understand, and optimized impl
 
 📚 Topics Covered:
 📂 DSA-in-Cpp/
+
 ├── 📁 BitWise Operators/
+
 ├── 📁 Binary & Decimal Number System/
+
 ├── 📁 Switch & Functions/
+
 ├── 📁 Arrays/
+
 ├── 📁 Binary Search/
+
 ├── 📁 Sorting/
+
 ├── 📁 STL/
+
 ├── 📁 Dynamic Arrays/
+
 ├── 📁 Pointers/
+
 ├── 📁 Strings/
+
 ├── 📁 Recursion/
+
 ├── 📁 LinkedLists/
+
 ├── 📁 Stack/
+
 ├── 📁 Queues/
+
 ├── 📁 Trees/
+
 ├── 📁 Graphs/
+
 ├── 📁 DynamicProgramming/
+
 ├── 📁 Back Tracking/
+
 ├── 📁 Heaps/
+
 ├── 📁 HashMaps/
+
 ├── 📁 AdvancedAlgorithms/
+
 ├── 📁 Greedy Algorithms/
+
 └── README.md
 
 ✨ Key Features:
