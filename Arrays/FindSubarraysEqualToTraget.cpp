@@ -49,10 +49,12 @@ void OptimalApproach(vector<int>&arr,int target , int n){
 }
 int main(){
     vector<int>arr={3,4,-7,1,3,3,1,-4};
+    vector<int>arr={3,5,7,1,7,7,1,2};
     cout<<"Enter the target sum: ";
     int target;
     cin>>target;
     int n=arr.size();
+    OptimalApproach(arr,target,n);
     OptimalApproach(arr,target,n);
     return 0;
 }
